@@ -1,0 +1,65 @@
+
+
+body {
+	background-image: url(background.jpg);
+    background-size:cover;
+	font-size: 12px;
+	line-height: 25px;
+	color: #333;
+}
+#Heading{
+    font-size: 50px;
+    font-family: "Curlz MT",fantasy;
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+
+.nav {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #d497dd;
+	width: 60%;
+    font-size: 20px;
+    font-family: Impact;
+    margin-top: 25px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.main {
+    background-repeat:initial;
+    background-size:contain;
+    width: 60%;
+    background: rgba(237, 177, 201, 0.85);
+	color: #000;
+    font-size: 30px;
+}
+
+a {
+	font-size: 14px;
+}
+a:link {
+	color: #333;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #333;
+}
+a:hover {
+	text-decoration: none;
+	color: #FFF;
+}
+a:active {
+	text-decoration: none;
+	color: #333;
+}
+.title {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #200F15;
+	border-left-width: 5px;
+	border-left-style: solid;
+	border-left-color: #200F15;
+	padding-left: 10px;
+	color: #AD5A5A;
+}
